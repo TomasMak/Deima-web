@@ -9,8 +9,8 @@
   box-sizing: border-box !important;
   /* font-family: webfontkit; */
   font-family: Arial, Helvetica, sans-serif;
-  color: black;
-  font-size: 18px;
+  color: #030303;
+  font-size: 20px;
   text-shadow: none;
 }
 
@@ -25,8 +25,8 @@ body {
   height: 100%;
   width: 100%;
   margin: 0;
-  font-size: 18px;
-  background-color: #f2f2f2;
+  font-size: 20px;
+  background-color: #D1D0D0;
 }
 
 p, a {
@@ -71,8 +71,8 @@ p, a {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: #f2f2f2;
-  padding: 15px;
+  background-color: #D1D0D0;
+  padding: 20px;
 }
 
 .main a:hover {
@@ -86,7 +86,7 @@ p, a {
 
 .main a {
   text-decoration: none;
-  color: red !important;
+  color: #F70505 !important;
   display: inline-block;
   transition: 0.3s;
 }
@@ -98,7 +98,7 @@ p, a {
 }
 .projects {
   position: relative;
-  font-size: 1em;
+  font-size: 20px;
   width: auto;
   height: auto;
   /* float: right; */
@@ -111,11 +111,11 @@ p, a {
 
 .pagination {
   margin: 0 0 5px 0px;
-  font-size: 14px;
+  font-size: 20px;
   letter-spacing: 0.5px;
 }
 .img-name {
-  font-size: 14px;
+  font-size: 20px;
   text-align: center;
   margin: 5px 0 0 0px;
   letter-spacing: 0.5px;
@@ -187,7 +187,7 @@ max-height: 600px;
   }
   .projects {
     position: relative;
-    font-size: 1em;
+    font-size: 20px;
     width: auto;
     height: auto;
     /* float: right; */
@@ -200,7 +200,7 @@ max-height: 600px;
 @media only screen and (max-width: 600px) {
   .projects {
     position: relative;
-    font-size: 1em;
+    font-size: 20px;
     width: auto;
     height: auto;
   }
@@ -241,7 +241,7 @@ max-height: 600px;
 @media screen and (max-width: 1024px) and (min-width: 601px) {
   .projects {
     position: relative;
-    font-size: 1em;
+    font-size: 20px;
     width: auto;
     height: auto;
   }
